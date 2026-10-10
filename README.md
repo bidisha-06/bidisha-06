@@ -1,4 +1,4 @@
-# Hey, I'm Bidisha 👋
+# Hey, This is Bidisha 👋
 
 ### 💻 Computer Science Engineering Student | Aspiring Software Developer
 
@@ -13,9 +13,8 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech student in **Computer Science & Engineering**
-- 🌱 Currently exploring Data Structures, Algorithms and Software Development
 - 💡 Interested in building practical, innovative projects
-- 🛠️ Working with Python, C, HTML, CSS and Git
+- 🛠️ Working with C, Python
 - 🤖 Interested in AI, IoT and emerging technologies
 - 🎯 Goal: Learn continuously and build impactful solutions
 
